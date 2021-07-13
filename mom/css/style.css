@@ -1,0 +1,71 @@
+body{
+	font-family:'Open Sans',Arial,sans-serif;
+	font-weight:600;
+	margin:0;
+	padding:0;
+    color:#6a6969;
+    background-color:#222222;
+	width: 1200px;
+    margin: auto;	
+}
+.trying{
+    color: #ffffff;
+    text-decoration: none;
+}
+/****************************************************/
+/* Header */
+/****************************************************/
+header img{
+	width: 600px;
+	display:inline-block;
+    margin-left: 25%;
+    margin-right:25%;
+	
+}
+/****************************************************/
+/* Main */
+/****************************************************/
+main{
+    padding:5px;
+    margin-left: 25%;
+    margin-right:25%;
+    color:#222222;
+    background-color:#6a6969;
+    border-radius:10px;
+	border:3px solid #6a6969;
+}
+
+/****************************************************/
+/* Menu de connexion */
+/****************************************************/
+#idenscreen{
+    margin-left: 25%;
+}
+.boutonval{
+    border-radius:2px;
+	border:3px solid #222222;
+    text-align: center;
+    margin-left: 25%;
+    margin-right:25%;
+    background-color:#6a6969;
+}
+.boutonval:hover{
+    background-color: #ffffff;
+}
+/****************************************************/
+/* Menu de recherche */
+/****************************************************/
+#formpiece{
+    margin:5px;
+    padding-left: 20%;
+}
+
+/*----------Footer-----------*/
+footer{
+    margin-top: 25%;
+	text-align:center;
+}
+#goofed{
+    color:blue;
+    text-decoration: none;
+}
